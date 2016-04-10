@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Catherine:Hi, simon! I’ve done the task.
+=======
+胡琬祺：GIT test！
+>>>>>>> bf0f6bde4b2b24f853b0a7036050ef8e1bf99167
